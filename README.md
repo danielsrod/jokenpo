@@ -1,2 +1,2 @@
-# jokenpo
+# jokenpy
 Jokenpo with python
